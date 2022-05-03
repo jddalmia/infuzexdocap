@@ -1,0 +1,46 @@
+.grid-box
+{
+    display: grid;
+    grid-template-columns: auto auto;
+    margin: 0px;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.grid-part1
+{
+    width: 100%;
+    margin: 20px;
+    margin-right: 10px;
+    margin-left: 100px;
+}
+
+.grid-part2
+{
+    width: 20%;
+    margin-left: 10px;
+    font-size: 22px;
+    padding: 10px 7px 10px 7px;
+    font-weight: bold;
+    background-color: #0EB9B8;
+    color: white;
+    border-radius: 8px;
+
+}
+
+.docdes-box1
+{
+    cursor: pointer;
+}
+.docdes-box1:hover
+{
+    opacity: 0.8;
+}
+
+
+#user-icon
+{
+    font-size: 120px;
+}

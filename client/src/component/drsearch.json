@@ -1,0 +1,152 @@
+[
+
+    { "symptom":"Cough,Cold,Fever" , 
+      "search_tags":"cough cold fever sardi zukaam কাশিসর্দিবর" , 
+      "link":"/cold-cough" , 
+      "img":"https://previews.123rf.com/images/jemastock/jemastock1706/jemastock170607306/80044898-tosiendo-hombre-enfermo-con-fr%C3%ADo-gripe-y-virus-ilustraci%C3%B3n-vectorial.jpg"   
+    }  ,
+    { "symptom":"Skin or Hair Issues" , 
+        "search_tags":"acnepimplehairskinzitshairfallscalphairlossব্রণব্রণচুলচামড়াzitsচুলপড়ামাথারত্বকচুলপরা" , 
+        "link":"/acne-issues" , 
+        "img":"https://thumbs.dreamstime.com/b/unhappy-teen-girl-struggling-acne-unhappy-teen-girl-struggling-acne-pimples-skin-face-problem-concept-vector-modern-flat-99784709.jpg"   
+    } 
+    ,
+    { "symptom":"Child not feeling well" , 
+        "search_tags":"children paediatrics শিশুরোগ" , 
+        "link":"/child-not-feelingwell" , 
+        "img":"https://media.istockphoto.com/vectors/sick-child-in-bed-vector-id1169998028?k=20&m=1169998028&s=170667a&w=0&h=lFvWE98tTOKDlJpgiOlFuz3SFe55fenQSGgiV5rnRBk="   
+    }  
+
+    ,
+    { "symptom":"Depression or Anxiety" , 
+        "search_tags":"Depression Anxiety counselling mood বিষণ্নতা উদ্বেগ কাউন্সেলিং মেজাজ" , 
+        "link":"/depression" , 
+        "img":"https://img.freepik.com/free-vector/woman-depression-with-bewildered-thoughts-her-mind_102172-221.jpg?w=2000"   
+    }  
+
+    ,
+    { "symptom":"Dental Care" , 
+        "search_tags":"Dental Teeth tooth cavity ডেন্টাল দাঁত দাঁতের গহ্বর" , 
+        "link":"/dental-issues" , 
+        "img":"https://media.gettyimages.com/vectors/dental-care-vector-id1185554271"   
+    }  
+
+    ,
+    { "symptom":"Period doubts or pregnancy" , 
+        "search_tags":"periods cramps pregnancy vagina পিরিয়ড ক্র্যাম্পস গর্ভাবস্থার যোনি" , 
+        "link":"/periods-issues" , 
+        "img":"https://media.istockphoto.com/vectors/to-be-a-woman-menstruation-period-cartoon-female-sitting-with-flowers-vector-id1337820462?b=1&k=20&m=1337820462&s=612x612&w=0&h=QSMsI3MCFgbeU38g5NlVyoMcNunLM9hihWga88GjHPs="   
+    }  
+    
+    ,
+    { "symptom":"Performance issues in bed" , 
+        "search_tags":"performance sex intercourse stamina বিছানা কর্মক্ষমতা যৌন মিলন সহন ক্ষমতা" , 
+        "link":"/performance-issues" , 
+        "img":"https://c8.alamy.com/comp/2HNA517/improving-system-performance-semi-flat-rgb-color-vector-illustration-2HNA517.jpg"   
+    }  
+
+    ,
+    { "symptom":"Heart Related Issues" , 
+        "search_tags":"heartattack panicattack cardiologist হার্ট অ্যাটাক প্যানিক্যাটাক কার্ডিওলজিস্ট" , 
+        "link":"/heart-issues" , 
+        "img":"https://media.istockphoto.com/vectors/cardiology-icon-vector-id1061340964?k=20&m=1061340964&s=612x612&w=0&h=YbXByT1hCiMZkFatTHvYz4CcOrscu8wnwb20g_59orQ="   
+    }  
+
+
+    ,
+    { "symptom":"Lungs and Breathing Problems" , 
+        "search_tags":"lungs asthama breathing ফুসফুসের হাঁপানি শ্বাস" , 
+        "link":"/lungs-breathing" , 
+        "img":"https://img.freepik.com/free-vector/human-lung-anatomy-diagram-illness-respiratory-cancer-graphics_124894-214.jpg?w=2000"   
+    }  
+
+
+    ,
+    { "symptom":"Diet and Nutrition" , 
+        "search_tags":"diet nutrition food খাদ্য পুষ্টি খাদ্য" , 
+        "link":"/diet-nutrition" , 
+        "img":"https://img.freepik.com/free-vector/ketogenic-diet-woman-composition_1284-64950.jpg?w=2000"   
+    }  
+
+
+    ,
+    { "symptom":"Brain and Nerves" , 
+        "search_tags":"braintumor tumour nerves head মস্তিষ্কের টিউমার স্নায়ু মাথা" , 
+        "link":"/brain-issues" , 
+        "img":"https://thumbs.dreamstime.com/b/neurology-vector-concept-made-flat-icons-illustration-129219951.jpg"   
+    }  
+
+
+    ,
+    { "symptom":"Joint/Bones Pain" , 
+        "search_tags":"bones joints fracture plaster হাড় জয়েন্টগুলোতে ফ্র্যাকচার প্লাস্টার" , 
+        "link":"/bones-issues" , 
+        "img":"https://www.venkateshwarhospitals.com/blog/wp-content/uploads/2019/05/orthopedics-sport-injury.jpg"   
+    }  
+
+
+    ,
+    { "symptom":"Diabetes" , 
+        "search_tags":"diabetes sugar insulin ডায়াবেটিস চিনির ইনসুলিন" , 
+        "link":"/diabetes" , 
+        "img":"https://media.istockphoto.com/vectors/blood-test-with-finger-vector-id1073230446?k=20&m=1073230446&s=612x612&w=0&h=xfMJJU5_9cVVWapT9T3LOsnkKGraCLBwsSFyqW-TpMg="   
+    }  
+
+    ,
+    { "symptom":"Gynecological Issues" , 
+        "search_tags":"bones joints fracture plaster pcos cysts হাড় জয়েন্টগুলোতে ফ্র্যাকচার প্লাস্টার" , 
+        "link":"/gynecological-issues" , 
+        "img":"https://media.istockphoto.com/vectors/doctor-gynecologist-character-vector-id1312626629?k=20&m=1312626629&s=612x612&w=0&h=adxjutDHOSGOGLSIvK_6AqiLOkC-l0KcqK260ponK8A="   
+    }  
+
+    ,
+    { "symptom":"Stomach Issues" , 
+        "search_tags":"stomachache stomachpain loose motion constipation acidity পেটব্যথা পেটব্যথা আলগা গতি কোষ্ঠকাঠিন্য অ্যাসিডিটি" , 
+        "link":"/stomach-pain" , 
+        "img":"https://img.freepik.com/free-vector/man-suffering-from-abdominal-pain-male-young-character-bending-holding-his-belly-painkillers-advertisement-stomach-disease-ulcers-gastritis-concept-vector-isolated-illustration_176411-2610.jpg?w=2000"   
+    }  
+
+    ,
+    { "symptom":"Eye Related Issues" , 
+        "search_tags":"eyes specs cataract Glaucoma Amblyopia Strabismus চোখের চশমা ছানি গ্লুকোমা অ্যাম্বলিওপিয়া স্ট্র্যাবিসমাস" , 
+        "link":"/eye-related-issues" , 
+        "img":"https://media.istockphoto.com/vectors/ophthalmology-diagnostics-vector-concept-for-web-banner-website-page-vector-id1169361938?b=1&k=20&m=1169361938&s=612x612&w=0&h=rX8380vVQ0B-1boVLU6bt4hpCWoiS92YTblN7XhA_zU="   
+    }  
+
+    ,
+    { "symptom":"Urinary Issues" , 
+        "search_tags":"urine frequent urination pee circumcision প্রস্রাব ঘন ঘন প্রস্রাব করা সুন্নত" , 
+        "link":"/urinary-issues" , 
+        "img":"https://thumbs.dreamstime.com/b/urinary-tract-vector-illustration-urinary-tract-vector-illustration-isolated-white-background-158784975.jpg"   
+    }  
+
+    ,
+    { "symptom":"Cancer" , 
+        "search_tags":"cancer ক্যান্সার" , 
+        "link":"/cancer" , 
+        "img":"https://img.freepik.com/free-vector/bound_53876-25486.jpg?w=2000"   
+    }  
+
+    ,
+    { "symptom":"Ear , Nose , Throat Issues" , 
+        "search_tags":"ear nose throat ent কান নাক গলা" , 
+        "link":"/ENT-specialist" , 
+        "img":"https://st2.depositphotos.com/4520249/7633/v/380/depositphotos_76335671-stock-illustration-ent-ear-nose-medicine-icon.jpg?forcejpeg=true"   
+    }  
+
+    ,
+    { "symptom":"Kidney Issues" , 
+        "search_tags":"kidney stones polycystic urinarytract কিডনিতে পাথর পলিসিস্টিক ইউরিনারিট্র্যাক্ট" , 
+        "link":"/kidney-issues" , 
+        "img":"https://static.vecteezy.com/system/resources/thumbnails/002/292/587/small/kidney-human-internal-organ-urinary-endocrine-system-front-view-anatomy-illustration-vector.jpg"   
+    }  
+
+
+
+
+
+
+
+
+
+]
